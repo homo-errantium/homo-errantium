@@ -50,3 +50,5 @@ I completed the web programming course from Yandex.Practicum in October 2023. As
     -   <h4><img height="20" src="./telegram_icon.png" alt="telegram icon"> : https://t.me/hell_scr</h4>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=homo-errantium)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=homo-errantium&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=homo-errantium)](https://github.com/anuraghazra/github-readme-stats)
