@@ -51,6 +51,8 @@ I completed the web programming course from Yandex.Practicum in October 2023. As
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=homo-errantium)](https://github.com/ryo-ma/github-profile-trophy)
 
+<span align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=homo-errantium&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=homo-errantium&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</span>
