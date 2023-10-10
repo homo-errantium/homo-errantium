@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> -->
 <h1 align="center"><img src="./header.png" alt="header of md-file"></h1>
 
-## front-end developer (junior), also i'm genius, ~~billionaire~~, playboy(?), philanthropist (c)
+## front-end developer (junior), ### also i'm genius, ~~billionaire~~, playboy(?), philanthropist (c)
 
 <!-- **homo-errantium/homo-errantium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -22,15 +22,27 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-### something about me ():
+### something about my plans to study:
 
--   🔭 I’m currently making... a website for my wife: she makes delicious cakes
--   🌱 I’m currently learning... React's hooks
--   👯 I’m looking to collaborate with... myself
--   🤔 I’m looking for help... with my friends and all guys on [https://stackoverflow.com/](https://stackoverflow.com/)
--   💬 Ask me about... anything you want
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
+
+### something about me (unimportant info):
+
+I completed the web programming course from Yandex.Practicum in October 2023. As a result of my studies, I have several small websites and a nice graduation project.
+
+-   🔭 Now I am improving my existing knowledge, as well as studying related technologies.
+
+-   💬 At the moment I am developing a website for my wife: she makes very tasty cakes.
+
+-   🤔 I also have several ideas that I want to implement in future pet projects.
+
+-   👯 In general, I'm looking for a team to work on projects. I will be glad to receive suggestions.
+
 -   📫 How to reach me:
-    -   E-mail: lunatik89@mail.ru
-    -   Phone: +7(953) 499-31-62
-    -   WhatsApp: +7(953) 499-31-62
-    -   Telegram: https://t.me/hell_scr
+    -   <h4><img src="./gmail_icon.png" alt="gmail icon">: lunatik89@mail.ru</h4>
+    -   <h4><img src="./phone_icon.png" alt="phone icon">: +7(953) 499-31-62</h4>
+    -   <h4><img src="./whats_up_icon.png" alt="whats up icon">: +7(953) 499-31-62</h4>
+    -   <h4><img src="./telegram_icon.png" alt="telegram icon">: https://t.me/hell_scr</h4>
