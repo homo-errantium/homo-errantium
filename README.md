@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hi there, I'm Aishat
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> -->
 <h1 align="center"><img src="./header.png" alt="header of md-file"></h1>
-<h2 align="center">front-end developer (junior), *also i'm genius, billionaire(not), playboy(?), philanthropist (c)*</h2>
+<h2 align="center">front-end developer (junior), <br> <span style="font-size: 11px !important; color: #aaaaaa;">also i'm genius, billionaire(not), playboy(?), philanthropist (c)</span></h2>
 
 <!-- ## front-end developer (junior), *also i'm genius, ~~billionaire~~, playboy(?), philanthropist (c)* -->
 
