@@ -2,7 +2,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> -->
 <h1 align="center"><img src="./header.png" alt="header of md-file"></h1>
 
-## front-end developer (junior), ### also i'm genius, ~~billionaire~~, playboy(?), philanthropist (c)
+## front-end developer (junior),
+
+### also i'm genius, ~~billionaire~~, playboy(?), philanthropist (c)
 
 <!-- **homo-errantium/homo-errantium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -42,7 +44,7 @@ I completed the web programming course from Yandex.Practicum in October 2023. As
 -   👯 In general, I'm looking for a team to work on projects. I will be glad to receive suggestions.
 
 -   📫 How to reach me:
-    -   <h4><img height="20" src="./gmail_icon.png" alt="gmail icon">: lunatik89@mail.ru</h4>
-    -   <h4><img height="20" src="./phone_icon.png" alt="phone icon">: +7(953) 499-31-62</h4>
-    -   <h4><img height="20" src="./whats_up_icon.png" alt="whats up icon">: +7(953) 499-31-62</h4>
-    -   <h4><img height="20" src="./telegram_icon.png" alt="telegram icon">: https://t.me/hell_scr</h4>
+    -   <h4><img height="20" src="./gmail_icon.png" alt="gmail icon"> : lunatik89@mail.ru</h4>
+    -   <h4><img height="20" src="./phone_icon.png" alt="phone icon"> : +7(953) 499-31-62</h4>
+    -   <h4><img height="20" src="./whats_up_icon.png" alt="whats up icon"> : +7(953) 499-31-62</h4>
+    -   <h4><img height="20" src="./telegram_icon.png" alt="telegram icon"> : https://t.me/hell_scr</h4>
