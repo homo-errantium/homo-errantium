@@ -8,21 +8,25 @@
 
 <!-- **homo-errantium/homo-errantium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-### something about me (skills):
+### something about me (unimportant info):
 
--   NodeJS
--   NPM
--   React
--   React Router
--   JavaScript
--   MongoDB
--   Figma
--   Linux
--   GitHub
--   Git
--   HTML5
--   CSS3
--   C
+I completed the web programming course from Yandex.Practicum in October 2023. As a result of my studies, I have several small websites and a nice graduation project.
+
+-   🔭 Now I am improving my existing knowledge, as well as studying related technologies.
+
+-   💬 At the moment I am developing a website for my wife: she makes very tasty cakes.
+
+-   🤔 I also have several ideas that I want to implement in future pet projects.
+
+-   👯 In general, I'm looking for a team to work on projects. I will be glad to receive suggestions.
+
+-   📫 How to reach me:
+    -   <h4><img height="20" src="./gmail_icon.png" alt="gmail icon"> : lunatik89@mail.ru</h4>
+    -   <h4><img height="20" src="./phone_icon.png" alt="phone icon"> : +7(953) 499-31-62</h4>
+    -   <h4><img height="20" src="./whats_up_icon.png" alt="whats up icon"> : +7(953) 499-31-62</h4>
+    -   <h4><img height="20" src="./telegram_icon.png" alt="telegram icon"> : https://t.me/hell_scr</h4>
+    
+### something about me (skills):
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -45,23 +49,6 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
 
-### something about me (unimportant info):
-
-I completed the web programming course from Yandex.Practicum in October 2023. As a result of my studies, I have several small websites and a nice graduation project.
-
--   🔭 Now I am improving my existing knowledge, as well as studying related technologies.
-
--   💬 At the moment I am developing a website for my wife: she makes very tasty cakes.
-
--   🤔 I also have several ideas that I want to implement in future pet projects.
-
--   👯 In general, I'm looking for a team to work on projects. I will be glad to receive suggestions.
-
--   📫 How to reach me:
-    -   <h4><img height="20" src="./gmail_icon.png" alt="gmail icon"> : lunatik89@mail.ru</h4>
-    -   <h4><img height="20" src="./phone_icon.png" alt="phone icon"> : +7(953) 499-31-62</h4>
-    -   <h4><img height="20" src="./whats_up_icon.png" alt="whats up icon"> : +7(953) 499-31-62</h4>
-    -   <h4><img height="20" src="./telegram_icon.png" alt="telegram icon"> : https://t.me/hell_scr</h4>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=homo-errantium)](https://github.com/ryo-ma/github-profile-trophy)
 
